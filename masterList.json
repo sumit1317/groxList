@@ -1,0 +1,66 @@
+[
+      {
+        "categoryID": 1,
+        "categoryName": "Fruits",
+        "categoryImage": "",
+        "items": [
+          {
+            "itemID": 101,
+            "itemName": "Apples",
+            "quantity": "1",
+            "quantityUnit": "Kgs",
+            "status": 0,
+            "owner": "",
+            "description": "",
+            "pinned" : "N"
+          },
+          {
+            "itemID": 102,
+            "itemName": "Mangoes",
+            "quantity": "1",
+            "quantityUnit": "Kgs",
+            "status": 0,
+            "owner": "",
+            "description": "",
+            "pinned" : "N"
+          },
+          {
+            "itemID": 103,
+            "itemName": "Water Melon",
+            "quantity": "1",
+            "quantityUnit": "Kgs",
+            "status": 0,
+            "owner": "",
+            "description": "",
+            "pinned" : "N"
+          }
+        ]
+      },
+      {
+        "categoryID": 2,
+        "categoryName": "Vegetables",
+        "categoryImage": "",
+        "items": [
+            {
+                "itemID": 201,
+                "itemName": "Onions",
+                "quantity": "1",
+                "quantityUnit": "Kgs",
+                "status": 0,
+                "owner": "",
+                "description": "",
+                "pinned" : "N"
+              },
+              {
+                "itemID": 202,
+                "itemName": "Tomatoes",
+                "quantity": "1",
+                "quantityUnit": "Kgs",
+                "status": 0,
+                "owner": "",
+                "description": "",
+                "pinned" : "N"
+              }
+        ]
+      } 
+    ]
