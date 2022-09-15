@@ -1,6 +1,7 @@
 [
       {
         "categoryID": 1,
+            "categoryOrder" : 2,
         "categoryName": "Fruits",
         "categoryImage": "",
         "items": [
@@ -38,6 +39,7 @@
       },
       {
         "categoryID": 2,
+                    "categoryOrder" : 3,
         "categoryName": "Vegetables",
         "categoryImage": "",
         "items": [
@@ -65,6 +67,7 @@
       } ,
       {
         "categoryID": 3,
+                    "categoryOrder" : 1,
         "categoryName": "More Items...",
         "categoryImage": "",
         "items": []
