@@ -64,12 +64,5 @@
                 "pinned" : "N"
               }
         ]
-      } ,
-      {
-        "categoryID": 3,
-                    "categoryOrder" : 1,
-        "categoryName": "More Items...",
-        "categoryImage": "",
-        "items": []
       } 
     ]
