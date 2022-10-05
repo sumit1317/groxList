@@ -20,7 +20,8 @@
             "status": 0,
             "owner": "",
             "description": "",
-            "pinned" : "N"
+            "pinned" : "N",
+                "filters" : ["All", "Fruits"]
           },
           {
             "itemID": 102,
@@ -30,7 +31,8 @@
             "status": 0,
             "owner": "",
             "description": "",
-            "pinned" : "N"
+            "pinned" : "N",
+                "filters" : ["All", "Fruits"]
           },
           {
             "itemID": 103,
@@ -40,7 +42,8 @@
             "status": 0,
             "owner": "",
             "description": "",
-            "pinned" : "N"
+            "pinned" : "N",
+                "filters" : ["All", "Fruits"]
           }
         ]
       },
@@ -58,7 +61,8 @@
                 "status": 0,
                 "owner": "",
                 "description": "",
-                "pinned" : "N"
+                "pinned" : "N",
+                "filters" : ["All", "Vegetables"]
               },
               {
                 "itemID": 202,
@@ -68,7 +72,8 @@
                 "status": 0,
                 "owner": "",
                 "description": "",
-                "pinned" : "N"
+                "pinned" : "N",
+                "filters" : ["All", "Vegetables"]
               }
         ]
       } 
