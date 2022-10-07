@@ -1,80 +1,103 @@
 [
-      {
-        "categoryID": 0,
-        "categoryOrder" : 4,
-        "categoryName": "Additional",
-        "categoryImage": "",
-        "items": []
-      },
-      {
-        "categoryID": 1,
-        "categoryOrder" : 2,
-        "categoryName": "Fruits",
-        "categoryImage": "",
-        "items": [
+    {
+      "categoryID": 0,
+      "categoryOrder" : 4,
+      "categoryName": "Additional",
+      "categoryImage": "",
+      "items": []
+    },
+    {
+      "categoryID": 1,
+      "categoryOrder" : 2,
+      "categoryName": "Fruits",
+      "categoryImage": "",
+      "items": [
+        {
+          "itemID": 101,
+          "itemName": "Apples",
+          "quantity": "1",
+          "quantityUnit": "Kgs",
+          "status": 0,
+          "owner": "",
+          "description": "",
+          "pinned" : "N",
+          "filters" : ["All", "Fruits"],
+          "source" : "",
+          "price" : 0.00
+        },
+        {
+          "itemID": 102,
+          "itemName": "Mangoes",
+          "quantity": "1",
+          "quantityUnit": "Kgs",
+          "status": 0,
+          "owner": "",
+          "description": "",
+          "pinned" : "N",
+          "filters" : ["All", "Fruits"],
+          "source" : "",
+          "price" : 0.00
+        },
+        {
+          "itemID": 103,
+          "itemName": "Water Melon",
+          "quantity": "1",
+          "quantityUnit": "Kgs",
+          "status": 0,
+          "owner": "",
+          "description": "",
+          "pinned" : "N",
+          "filters" : ["All", "Fruits"],
+          "source" : "",
+          "price" : 0.00
+        }
+      ]
+    },
+    {
+      "categoryID": 2,
+      "categoryOrder" : 3,
+      "categoryName": "Vegetables",
+      "categoryImage": "",
+      "items": [
           {
-            "itemID": 101,
-            "itemName": "Apples",
-            "quantity": "1",
-            "quantityUnit": "Kgs",
-            "status": 0,
-            "owner": "",
-            "description": "",
-            "pinned" : "N",
-                "filters" : ["All", "Fruits"]
-          },
-          {
-            "itemID": 102,
-            "itemName": "Mangoes",
-            "quantity": "1",
-            "quantityUnit": "Kgs",
-            "status": 0,
-            "owner": "",
-            "description": "",
-            "pinned" : "N",
-                "filters" : ["All", "Fruits"]
-          },
-          {
-            "itemID": 103,
-            "itemName": "Water Melon",
-            "quantity": "1",
-            "quantityUnit": "Kgs",
-            "status": 0,
-            "owner": "",
-            "description": "",
-            "pinned" : "N",
-                "filters" : ["All", "Fruits"]
-          }
-        ]
-      },
-      {
-        "categoryID": 2,
-                    "categoryOrder" : 3,
-        "categoryName": "Vegetables",
-        "categoryImage": "",
-        "items": [
+              "itemID": 201,
+              "itemName": "Onions",
+              "quantity": "1",
+              "quantityUnit": "Kgs",
+              "status": 0,
+              "owner": "",
+              "description": "",
+              "pinned" : "N",
+              "filters" : ["All", "Vegetables"],
+              "source" : "",
+              "price" : 0.00
+            },
             {
-                "itemID": 201,
-                "itemName": "Onions",
+              "itemID": 202,
+              "itemName": "Tomatoes",
+              "quantity": "1",
+              "quantityUnit": "Kgs",
+              "status": 0,
+              "owner": "",
+              "description": "",
+              "pinned" : "N",
+              "filters" : ["All", "Vegetables"],
+              "source" : "",
+              "price" : 0.00
+            },
+            {
+                "itemID": 203,
+                "itemName": "Green Beans",
                 "quantity": "1",
                 "quantityUnit": "Kgs",
                 "status": 0,
                 "owner": "",
                 "description": "",
                 "pinned" : "N",
-                "filters" : ["All", "Vegetables"]
-              },
-              {
-                "itemID": 202,
-                "itemName": "Tomatoes",
-                "quantity": "1",
-                "quantityUnit": "Kgs",
-                "status": 0,
-                "owner": "",
-                "description": "",
-                "pinned" : "N",
-                "filters" : ["All", "Vegetables"]
+                "filters" : ["All", "Vegetables","Protein"],
+                "source" : "",
+                "price" : 0.00
               }
-        ]
-      } 
-    ]
+      ]
+    } 
+  ]
