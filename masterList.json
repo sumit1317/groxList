@@ -1,12 +1,5 @@
 [
     {
-      "categoryID": 0,
-      "categoryOrder" : 4,
-      "categoryName": "Additional",
-      "categoryImage": "",
-      "items": []
-    },
-    {
       "categoryID": 1,
       "categoryOrder" : 2,
       "categoryName": "Fruits",
