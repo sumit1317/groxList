@@ -16,7 +16,8 @@
           "pinned" : "N",
           "filters" : ["All", "Fruits"],
           "source" : "",
-          "price" : 0.00
+          "price" : 0.00,
+          "isProcessing" : 0
         },
         {
           "itemID": 102,
@@ -29,7 +30,8 @@
           "pinned" : "N",
           "filters" : ["All", "Fruits"],
           "source" : "",
-          "price" : 0.00
+          "price" : 0.00,
+          "isProcessing" : 0
         },
         {
           "itemID": 103,
@@ -42,7 +44,8 @@
           "pinned" : "N",
           "filters" : ["All", "Fruits"],
           "source" : "",
-          "price" : 0.00
+          "price" : 0.00,
+          "isProcessing" : 0
         }
       ]
     },
@@ -63,7 +66,8 @@
               "pinned" : "N",
               "filters" : ["All", "Vegetables"],
               "source" : "",
-              "price" : 0.00
+              "price" : 0.00,
+              "isProcessing" : 0
             },
             {
               "itemID": 202,
@@ -76,7 +80,8 @@
               "pinned" : "N",
               "filters" : ["All", "Vegetables"],
               "source" : "",
-              "price" : 0.00
+              "price" : 0.00,
+              "isProcessing" : 0
             },
             {
                 "itemID": 203,
@@ -89,7 +94,8 @@
                 "pinned" : "N",
                 "filters" : ["All", "Vegetables","Protein"],
                 "source" : "",
-                "price" : 0.00
+                "price" : 0.00,
+                "isProcessing" : 0
               }
       ]
     } 
