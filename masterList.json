@@ -38,7 +38,7 @@
           "quantityUnit": "kgs",
           "status": 0,
           "owner": "",
-          "description": "Choose Kids/Organic/Lady finger/Red tipped bananas.",
+          "description": "",
           "pinned" : "N",
           "filters" : ["All", "Fruits"],
           "source" : "",
@@ -125,7 +125,7 @@
         },
         {
           "itemID": 110,
-          "itemName": "White seedless grapes",
+          "itemName": "White grapes",
           "quantity": "1",
           "quantityUnit": "kgs",
           "status": 0,
@@ -138,7 +138,7 @@
         },
         {
           "itemID": 111,
-          "itemName": "Red seedless grapes",
+          "itemName": "Red grapes",
           "quantity": "1",
           "quantityUnit": "kgs",
           "status": 0,
@@ -164,7 +164,7 @@
         },
         {
           "itemID": 113,
-          "itemName": "Black seedless grapes",
+          "itemName": "Black grapes",
           "quantity": "1",
           "quantityUnit": "kgs",
           "status": 0,
@@ -304,8 +304,7 @@
           "filters" : ["All", "Fruits"],
           "source" : "",
           "price" : 0.00
-        }
-        ,
+        },
         {
           "itemID": 124,
           "itemName": "R2E2 Mangoes",
@@ -359,7 +358,7 @@
           "price" : 0.00
         },
         {
-          "itemID": 127,
+          "itemID": 128,
           "itemName": "Cara Cara Oranges",
           "quantity": "1",
           "quantityUnit": "kgs",
@@ -372,7 +371,7 @@
           "price" : 0.00
         },
         {
-          "itemID": 128,
+          "itemID": 129,
           "itemName": "Pomelo Oranges",
           "quantity": "1",
           "quantityUnit": "kgs",
@@ -385,7 +384,7 @@
           "price" : 0.00
         },
         {
-          "itemID": 129,
+          "itemID": 130,
           "itemName": "Valencia Oranges",
           "quantity": "1",
           "quantityUnit": "kgs",
@@ -398,7 +397,7 @@
           "price" : 0.00
         },
         {
-          "itemID": 130,
+          "itemID": 131,
           "itemName": "Organic Bananas",
           "quantity": "1",
           "quantityUnit": "kgs",
@@ -411,7 +410,7 @@
           "price" : 0.00
         },
         {
-          "itemID": 131,
+          "itemID": 132,
           "itemName": "Organic Apples",
           "quantity": "1",
           "quantityUnit": "kgs",
@@ -424,7 +423,7 @@
           "price" : 0.00
         },
         {
-          "itemID": 132,
+          "itemID": 133,
           "itemName": "Organic Avocados",
           "quantity": "1",
           "quantityUnit": "pcs",
@@ -437,7 +436,7 @@
           "price" : 0.00
         },
         {
-          "itemID": 133,
+          "itemID": 134,
           "itemName": "Organic Navel Oranges",
           "quantity": "1",
           "quantityUnit": "kgs",
@@ -450,7 +449,7 @@
           "price" : 0.00
         },
         {
-          "itemID": 134,
+          "itemID": 135,
           "itemName": "Organic Pink Lady Apples",
           "quantity": "1",
           "quantityUnit": "kgs",
@@ -463,7 +462,7 @@
           "price" : 0.00
         },
         {
-          "itemID": 135,
+          "itemID": 136,
           "itemName": "Organic Strawberries",
           "quantity": "1",
           "quantityUnit": "kgs",
